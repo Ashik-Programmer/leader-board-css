@@ -162,6 +162,7 @@ hr {
 .hours .fa-clock,
 .hours span {
     color: #FF4A60;
+    font-size: 14px;
 }
 
 .hours-color {
