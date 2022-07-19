@@ -69,6 +69,7 @@ hr {
 .blog {
     display: flex;
     align-items: center;
+    width: 375px;
 }
 
 .thumbnail img {
@@ -207,10 +208,5 @@ hr {
     .players,
     .courses {
         grid-template-columns: repeat(2, 1fr);
-    }
-
-    .player,
-    .blog {
-        justify-content: center;
     }
 }
